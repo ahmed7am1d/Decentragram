@@ -1,5 +1,5 @@
 # Decentragram
-decentralized Instagram clone, built on the Ethereum blockchain. 
+Decentralized Instagram clone, built on the Ethereum blockchain. 
 Tech used: 
 - Solidity.
 - IPFS 
